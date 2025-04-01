@@ -3,22 +3,22 @@
 --------------------
    
 # Meal app
-- **Developer**: [Leander Hughes]
-- **Student Number**: [St-10471529]
-- **Group**: [Group 1]
-- **Course**: [Higher Certificate]
-- **Subject**: [IMAD5112]
+- **Developer**: Leander Hughes
+- **Student Number**: St-10471529
+- **Group**: Group 1
+- **Course**: Higher Certificate
+- **Subject**: IMAD5112
 
 ## Links
-- **GitHub Repository**: [https://github.com/ST10471529/Mealapp]
-- **YouTube Video**: [YouTube Video Link]
+- **GitHub Repository**: https://github.com/ST10471529/Mealapp
+- **YouTube Video**: YouTube Video Link
 ```
 ```
 2. Project Overview
 --------------------
 ## Project Overview
 
-The Mealapp is a mobile app created as part of an assignment given in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**.
+The Mealapp is a mobile app created as part of an assignment given in the IMAD5112 subject. This application was created using Kotlin and Android Studio.
 The purpose of this will be to provide an ease of information based of what they want to eat for the time of day by simply adding in the time e.g "Morning etc" in and receiving an output as a meal provided by the app for the user.
 
 When creating the app, the app was designed to meet the requirements based of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
