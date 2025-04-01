@@ -102,7 +102,7 @@ The workflow builds, tests, and delivers the APK files automatically whenever I 
 ![Screenshot 6](![MainActivity codes 2](https://github.com/user-attachments/assets/06f9b00f-5698-4bc7-8876-c9a4d984e68f)
 "The screenshot showcases the code that allows the user to input the time of day and get a valid output based on the time of day the user inserted."
 
-![Screenshot 7](![App running,display feature](https://github.com/user-attachments/assets/7439eb42-676d-406a-90df-0d50b73d3020)
+![Screenshot 7](![App running,display feature](https://github.com/user-attachments/assets/7439eb42-676d-406a-90df-0d50b73d3020))
 "The screenshot displays what the user will see after they insert a valid time of day. A snippit of the app working."
 
 ### Video Demo:
