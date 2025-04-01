@@ -13,7 +13,6 @@
 - **GitHub Repository**: [https://github.com/ST10471529/Mealapp]
 - **YouTube Video**: [YouTube Video Link]
 ```
-```
 2. Project Overview
 --------------------
 ## Project Overview
