@@ -119,13 +119,13 @@ During the development of this project, I encountered a few challenges, which in
 
 1. **Challenge 1**: I wanted to have a specific screen that would allow the user to input their name and age that would take them to the second page where they would be allowed to insert the time of day. 
    - **Solution**: I haven't came up with a solustion to adding that screen due to my files having an issue with incorporating that feature to my app, but in future time i will come up with a solution to add more of a user safe/friendly experience.
-   - **Future refrence**: Do research on how to incorporate that screen to work without having my files get corrupted.
+   - **Future refrence**:I'd want to do more research on how to incorporate that screen to work without having my files get corrupted.
    
-2. **Challenge 2**: The challange i had was the wrong meal type output was being displayed for the time that was inserted by me when testing the app. 
+2. **Challenge 2**: The challange I had was the wrong meal type output was being displayed for the time that was inserted by me when testing the app. 
    - **Solution**: I simply swapped around "morning" with "mid-morning" and "mid-lunch" with "lunch" to allow the app to function correctly without interference with the meals.
-   - **Future refrence**: Always put the functionality you'd least think should be there and put that first. Run the code and ensure that it wokrs correctly and if it doesn't then do research on how to make it work.
+   - **Future refrence**: Always put the functionality you'd least think should be in the correct location on the code and put that first. Run the code and ensure that it wokrs correctly and if it doesn't then do research on how to make it work.
 
-From the issues faced, i learned that by trail and error the app will run by simply just swapping around certain steps and possibly adding to the code. The constant failing teaches you to keep on trying until you finally understand the issue and hopefully fix the issue. 
+From the issues faced, I learned that by trial and error the app will run by simply just swapping around certain steps and possibly adding to the code. The constant failing teaches you to keep on trying until you finally understand the issue and hopefully fix the issue. 
 ```
 
 ```
@@ -140,7 +140,7 @@ In this version (V1) of the app that provides a simple and effective approach wh
 3. **Feature 3**: "The app must display the amount of calories from that meal that is provided from the time input which will be benefical to those users who'd want to know how many calories are being consumed."
 4. **Feature 4**: "I'd like the app to provide a resturant that the user can go to have the meal displayed at, depending on the time which was inserted by the user."
 
-With these features i'd bring to the app, it will improve the app’s usability and make it even more versatile for future users.
+With these features i'd like to bring to the app, it will improve the app’s usability and make it even more versatile for future users.
 ```
 
 ```
