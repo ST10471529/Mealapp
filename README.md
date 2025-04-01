@@ -36,8 +36,7 @@ They simply just insert the time of day and a meal will pop up for them giving t
 - Feature 3: Ease of access to all the meals the app will provide to the user and the ease of movement between the apps pages aswell as resetting app funtionalities and exiting the app.
 
 With these features of the app intergrated, it provides ease of use to the user which allows the simplicity of operating the app.
-```
-```
+
 4. Design Considerations
 ------------------------
 
@@ -52,7 +51,6 @@ The design of the **[Meal app ]** was based on the following key considerations:
 3. **Simplicity**: The design of the app is very minimalistic. It allows the user to get straight to the point feedback on what they want to eat for the day without overwhelming the user.
    
 4. **Performance**: Code optimization was considered to ensure fast response times and low battery usage.
-```
 
 5. GitHub and GitHub Actions Utilization
 ----------------------------------------
