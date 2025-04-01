@@ -179,8 +179,8 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 ### 1. **Section(s) in which Generative AI was used:**
 - **Line 46 to 48 and line 50 to 54 in MainActivity.kt**: Button functionality.
 - **Layout of my app(Design) in the Activity_main.xml**: Layout validation of whether it was correct and optimal.
-- **Line 62 to 70 in MainActivity.kt** Help with creating and fixing my code. 
-- **Line 78 to 83 in MainActivity.kt**: CAsked AI to check if my codes would work.
+- **Line 62 to 70 in MainActivity.kt** Help with understanding my code. 
+- **Line 78 to 83 in MainActivity.kt**: Asked AI to check if my codes would work.
 
 ### 2. **Name of AI Tool(s) Used:**
 - **ChatGPT** (OpenAI)
@@ -198,8 +198,8 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 -  AI was used on **March 26, 2025** for clearity on codes ive used to make sure if they would work with what I inteded it for.
 -  AI was used on **March 28, 2025**  Used for checking how the layout of my app was and if it was correct.
 
-### 5. **Link to the AI Chat(s) or Screenshots:**
-- **Chat 1 (Brainstorming App Features)**: [Link to the AI conversation/chat](insert_link_here)  
+### 5. **Screenshots to the AI Chat(s):**
+- **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**: [Link to the AI conversation/chat]("C:\Users\Leander Hughes\OneDrive\Pictures\Response Gemini for layout structure.png")  
   *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
 
 - **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
