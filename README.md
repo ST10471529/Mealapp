@@ -158,8 +158,13 @@ With these features i'd like to bring to the app, it will improve the app’s us
 -------------------
 ## List of Figures
 
-- **Figure 1**: Screenshot of the app's home screen.
-- **Figure 2**: Screenshot of the user profile screen.
+- **Figure 1**: Screenshot of the app's main screen.
+- **Figure 2**: Screenshot of the app's menu screen.
+- **Figure 3**: Screenshot of the app's design of the layout.
+- **Figure 4**: Screenshot of the app's button functionality 
+- **Figure 5**: Screenshot of the app's button being the return button in the MainActivity2.kt.
+- **Figure 6**: Screenshot of the app's textview that shows the input time of day and its output.
+- **Figure 7**: Screenshot of the app's textview that displays a message that the user will recieve when they insert a valid time of day.
 ```
 
 ```
@@ -169,12 +174,13 @@ With these features i'd like to bring to the app, it will improve the app’s us
 
 ## Disclosure of AI Usage in My Assessment
 
-In the development of this project, I have used generative AI tools to assist in various parts of the assignment. Below is a detailed disclosure of where and how these tools were used:
+Duringt the complition of my app, I have used AI tools to assist in various parts of my assignment. Below is a detailed disclosure of where and how these tools were used:
 
 ### 1. **Section(s) in which Generative AI was used:**
-- **Question 2.2**: Used AI for brainstorming ideas for the app's features.
-- **Part 5**: Assisted in creating code snippets for setting up GitHub Actions workflows.
-- **Part 3**: Used AI to help improve the grammar and clarity of the report.
+- **Line 46 to 48 and line 50 to 54 in MainActivity.kt**: Button functionality.
+- **Layout of my app(Design) in the Activity_main.xml**: Layout validation of whether it was correct and optimal.
+- **Line 62 to 70 in MainActivity.kt** Help with creating and fixing my code. 
+- **Line 78 to 83 in MainActivity.kt**: CAsked AI to check if my codes would work.
 
 ### 2. **Name of AI Tool(s) Used:**
 - **ChatGPT** (OpenAI)
