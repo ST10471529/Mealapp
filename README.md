@@ -10,7 +10,7 @@
 Start with a header section that includes the following basic details:
 
 
-# [Mealapp]
+# [Meal app]
 - **Developer**: [Leander Hughes]
 - **Student Number**: [St-10471529]
 - **Group**: [Group 1]
@@ -95,7 +95,7 @@ Why:
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.p)
+![Screenshot 1](Main_page_of_my_app_png)
 "The screanshot showcases the main screen the user will see on the app and where they would enter the time of day."
 
 ![Screenshot 2](path_to_screenshot_2.png)
