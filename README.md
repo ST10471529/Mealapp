@@ -187,10 +187,10 @@ In the development of this project, I have used generative AI tools to assist in
 - **Code Assistance**: I asked Gemini to help me with the code in my MainActivity.kt file, from line 62 to 70 without my comments inncluded.
   
 ### 4. **Date(s) in Which Generative AI Was Used:**
--  AI was used on **March 15, 2025** 
-- **Question 2.2**: AI was used on **March 20, 2025** for clearity on codes ive used to make sure if they would work with what I inteded it for.
-- **Part 5**: AI was used on **March 26, 2025** .
-- **Part 3**: AI was used on **March 28, 2025** .
+-  AI was used on **March 15, 2025** For my button functionality and whether it was able to link to thhe secon page and fucntion correctly in-terms of exiting and resetting.
+-  AI was used on **March 20, 2025** Guidance on helping me with setting up my code correctly.
+-  AI was used on **March 26, 2025** for clearity on codes ive used to make sure if they would work with what I inteded it for.
+-  AI was used on **March 28, 2025**  Used for checking how the layout of my app was and if it was correct.
 
 ### 5. **Link to the AI Chat(s) or Screenshots:**
 - **Chat 1 (Brainstorming App Features)**: [Link to the AI conversation/chat](insert_link_here)  
