@@ -8,8 +8,11 @@
 ## Links
 - **GitHub Repository**: [https://github.com/ST10471529/Mealapp]
 - **YouTube Video**: [YouTube Video Link]
+```
 
+```
 2. Project Overview
+--------------------
 ## Project Overview
 
 The Mealapp is a mobile application developed as part of an assignment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**.
