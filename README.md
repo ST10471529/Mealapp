@@ -18,10 +18,10 @@
 --------------------
 ## Project Overview
 
-The Mealapp is a mobile application developed as part of an assignment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**.
-The purpose will be to provide an ease of information based of what they want to eat for the time of day by simply adding the time e.g "Morning" in and receiving an output as a meal.
+The Mealapp is a mobile app created as part of an assignment given in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**.
+The purpose of this will be to provide an ease of information based of what they want to eat for the time of day by simply adding in the time e.g "Morning etc" in and receiving an output as a meal provided by the app for the user.
 
-The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
+When creating the app, the app was designed to meet the requirements based of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
 
 ```
@@ -32,12 +32,12 @@ The app was developed to meet the requirements of the assignment, which includes
 
 ### Purpose:
 The main goal of this app is to allow the user to simply acces the app since they are struggling to decide on what to eat.
-They simply just insert the time of day and a meal will pop up for them giving them quick and easy results without thinking to much about what they want to eat. 
+They simply just insert the time of day and a meal will pop up for them giving them quick and easy results without thinking to much about what they would like to eat. 
 
 ### Key Features:
-- Feature 1: Display the meal based of the time inserted.
-- Feature 2: Display each meal from morning all the way to dinner and dessert.
-- Feature 3: Ease of access to all the meals the app will provide to the user and the ease of movement between the apps pages aswell as resetting app funtionalities and exiting the app.
+- Feature 1: Display's the meal based of the time inserted by the user.
+- Feature 2: Display's each meal from morning all the way to dinner and dessert for those who wants dessert too.
+- Feature 3: Ease of access to all the meals the app will provide to the user and the ease of movement between the apps pages aswell as resetting app funtionalities and exiting the app with no issues.
 
 With these features of the app intergrated, it provides ease of use to the user which allows the simplicity of operating the app.
 ```
@@ -48,15 +48,15 @@ With these features of the app intergrated, it provides ease of use to the user 
 
 ## Design Considerations
 
-The design of the **[Meal app ]** was based on the following key considerations:
+The design of the Meal app was based on the following key considerations:
 
-1. **User Experience (UX)**: The whole design around the app is to brighten up the user's day with having a bright background with pink hue's to the app which provides an asthetic design and entises females to also engage with the app.
+1. **User experience** The whole design around the app is to brighten up the user's day with having a bright background with pink hue's to the app which provides an asthetic design and entises females to also engage with the app.
    
-2. **Responsiveness**: The app was built to ensure it performs well on different screen sizes, with particular attention to device compatibility.
+2. **Responsiveness**: The app was built to ensure it performs well on different screen sizes, with particular attention to device compatibility and work as fast as it can.
    
-3. **Simplicity**: The design of the app is very minimalistic. It allows the user to get straight to the point feedback on what they want to eat for the day without overwhelming the user.
+3. **Simplicity/workability**: The design of the app is very minimalistic. It allows the user to get straight to the point feedback on what they want to eat for the day without overwhelming the user.
    
-4. **Performance**: Code optimization was considered to ensure fast response times and low battery usage.
+4. **Performance**: Code optimization was considered to ensure fast response times and low battery usage with ease and comfort to the user.
 ```
 
 ```
@@ -115,7 +115,7 @@ View the videos functionality here: [YouTube Video Link].
 ---------------------------
 ## Challenges and Learnings
 
-During the development of this project, I encountered a few challenges, including:
+During the development of this project, I encountered a few challenges, which included:
 
 1. **Challenge 1**: I wanted to have a specific screen that would allow the user to input their name and age that would take them to the second page where they would be allowed to insert the time of day. 
    - **Solution**: I haven't came up with a solustion to adding that screen due to my files having an issue with incorporating that feature to my app, but in future time i will come up with a solution to add more of a user safe/friendly experience.
