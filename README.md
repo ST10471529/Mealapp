@@ -41,7 +41,9 @@ They simply just insert the time of day and a meal will pop up for them giving t
 - Feature 3: Ease of access to all the meals the app will provide to the user and the ease of movement between the apps pages aswell as resetting app funtionalities and exiting the app.
 
 With these features of the app intergrated, it provides ease of use to the user which allows the simplicity of operating the app.
+```
 
+```
 4. Design Considerations
 ------------------------
 
@@ -56,7 +58,9 @@ The design of the **[Meal app ]** was based on the following key considerations:
 3. **Simplicity**: The design of the app is very minimalistic. It allows the user to get straight to the point feedback on what they want to eat for the day without overwhelming the user.
    
 4. **Performance**: Code optimization was considered to ensure fast response times and low battery usage.
+```
 
+```
 5. GitHub and GitHub Actions Utilization
 ----------------------------------------
 
@@ -74,12 +78,7 @@ I utilized **GitHub Actions** to automate the build and deployment process. This
 The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
 ```
 
-Why:
-----
-- This section educates students on why they should understand version control (GitHub) and automation (GitHub Actions). It shows how they’re adopting industry-standard practices, which is useful for both academic purposes and career development.
-
----
-
+```
 6. Screenshots and App Demo
 ---------------------------
 
@@ -112,10 +111,9 @@ Why:
 View the videos functionality here: [YouTube Video Link].
 ```
 
+```
 7. Challenges and Learnings
 ---------------------------
-
-```
 ## Challenges and Learnings
 
 During the development of this project, I encountered a few challenges, including:
@@ -131,10 +129,9 @@ During the development of this project, I encountered a few challenges, includin
 From the issues faced, i learned that by trail and error the app will run by simply just swapping around certain steps and possibly adding to the code. The constant failing teaches you to keep on trying until you finally understand the issue and hopefully fix the issue. 
 ```
 
+```
 8. Future Enhancements
 ----------------------
-
-```
 ## Future Enhancements
 
 In this version (V1) of the app that provides a simple and effective approach which will come with more features that could be added in the future, including:
@@ -147,26 +144,25 @@ In this version (V1) of the app that provides a simple and effective approach wh
 With these features i'd bring to the app, it will improve the app’s usability and make it even more versatile for future users.
 ```
 
+```
 9. References
 -------------
-
-```markdown
 ## References
 
 1. [Reference 1: E.g., any books, articles, or online resources you used during development.]
 2. [Reference 2: Any relevant papers, documentation, or tutorials.]
 ```
 
+```
 10. List of Figures
 -------------------
-
-```
 ## List of Figures
 
 - **Figure 1**: Screenshot of the app's home screen.
 - **Figure 2**: Screenshot of the user profile screen.
 ```
 
+```
 11. Disclosure of AI Usage in My Assessment
 -------------------------------------------
 
