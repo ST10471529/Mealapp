@@ -166,7 +166,6 @@ With these features i'd bring to the app, it will improve the app’s usability 
 11. Disclosure of AI Usage in My Assessment
 -------------------------------------------
 
-## Disclosure of AI Usage in My Assessment
 
 ## Disclosure of AI Usage in My Assessment
 
