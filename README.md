@@ -199,7 +199,7 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 -  AI was used on **March 28, 2025**  Used for checking how the layout of my app was and if it was correct.
 
 ### 5. **Screenshots to the AI Chat(s):**
-- **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**: [Link to the AI conversation/chat]("C:\Users\Leander Hughes\OneDrive\Pictures\Response Gemini for layout structure.png")  
+- **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**: [Link to the AI conversation/chat]("Response_Gemini_for_layout_structure.png")  
   *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
 
 - **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
