@@ -87,7 +87,7 @@ The workflow builds, tests, and delivers the APK files automatically whenever I 
 (![Main page of my app](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e)
 "The screanshot showcases the main screen the user will see on the app and where they would enter the time of day."
 
-![Menu page]("C:_Users_Leander_Hughes_OneDrive_Pictures_Menu_second_page.png")
+(![Menu, second page](https://github.com/user-attachments/assets/071e2d07-9d7e-444f-8381-9645c0839b17)
 "The screenshot showcases the full menu list on the second page which allows the user to view the full menu to have an idea of what to expect."
 
 ![Screenshot 3](path_to_screenshot_3.png)
