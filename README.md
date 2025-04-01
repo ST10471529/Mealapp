@@ -90,7 +90,8 @@ The workflow builds, tests, and delivers the APK files automatically whenever I 
 (![Menu, second page](https://github.com/user-attachments/assets/071e2d07-9d7e-444f-8381-9645c0839b17)
 "The screenshot showcases the full menu list on the second page which allows the user to view the full menu to have an idea of what to expect."
 
-![Screenshot 3](path_to_screenshot_3.png)
+![Screenshot 3(![Layout of most of the design ](https://github.com/user-attachments/assets/4c86cc2a-edc1-493b-897b-61dcf41fdb4b)
+)
 "The screenshot showcases the design of most of the app with all the colors and visual design cues by changing the size and adding shadding,etc."
 
 ![Screenshot 4](path_to_screenshot_3.png)
