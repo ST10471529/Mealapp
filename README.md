@@ -1,3 +1,7 @@
+
+1. Basic Information
+--------------------
+   
 # [Meal app]
 - **Developer**: [Leander Hughes]
 - **Student Number**: [St-10471529]
