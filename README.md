@@ -84,8 +84,7 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](![Main page of my app](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e)
-)
+(![Main page of my app](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e)
 "The screanshot showcases the main screen the user will see on the app and where they would enter the time of day."
 
 ![Screenshot 2](path_to_screenshot_2.png)
