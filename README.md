@@ -9,12 +9,12 @@
 
 Start with a header section that includes the following basic details:
 
-```markdown
+
 # [Mealapp]
 - **Developer**: [Leander Hughes]
 - **Student Number**: [St-10471529]
 - **Group**: [Group 1]
-- **Course**: [Course Name]
+- **Course**: [Higher Certificate]
 - **Subject**: [IMAD5112]
 
 ## Links
@@ -24,7 +24,6 @@ Start with a header section that includes the following basic details:
 2. Project Overview
 -------------------
 
-```markdown
 ## Project Overview
 
 The Mealapp is a mobile application developed as part of an assignment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**.
@@ -33,10 +32,10 @@ The purpose will be to provide an ease of information based of what they want to
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
 
+```
 3. App Purpose and Features
 ---------------------------
 
-```markdown
 ## Purpose and Features
 
 ### Purpose:
@@ -50,14 +49,13 @@ They simply just insert the time of day and a meal will pop up for them giving t
 
 With these features of the app intergrated, it provides ease of use to the user which allows the simplicity of operating the app.
 ```
-
+```
 4. Design Considerations
 ------------------------
 
-```markdown
 ## Design Considerations
 
-The design of the **[App Title]** was based on the following key considerations:
+The design of the **[Meal ]** was based on the following key considerations:
 
 1. **User Experience (UX)**: The whole design around the app is to brighten up the user's day with having a bright background with pink hue's to the app which provides an asthetic design and entises females to also engage with the app.
    
@@ -70,7 +68,7 @@ The design of the **[App Title]** was based on the following key considerations:
 
 5. GitHub and GitHub Actions Utilization
 ----------------------------------------
-```markdown
+
 ## GitHub and GitHub Actions
 
 This project was managed using **GitHub** for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity.
@@ -94,11 +92,10 @@ Why:
 6. Screenshots and App Demo
 ---------------------------
 
-```markdown
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.png)
+![Screenshot 1](path_to_screenshot_1.p)
 "The screanshot showcases the main screen the user will see on the app and where they would enter the time of day."
 
 ![Screenshot 2](path_to_screenshot_2.png)
@@ -126,7 +123,7 @@ View the videos functionality here: [YouTube Video Link].
 7. Challenges and Learnings
 ---------------------------
 
-```markdown
+```
 ## Challenges and Learnings
 
 During the development of this project, I encountered a few challenges, including:
@@ -145,7 +142,7 @@ From the issues faced, i learned that by trail and error the app will run by sim
 8. Future Enhancements
 ----------------------
 
-```markdown
+```
 ## Future Enhancements
 
 In this version (V1) of the app that provides a simple and effective approach which will come with more features that could be added in the future, including:
@@ -171,7 +168,7 @@ With these features i'd bring to the app, it will improve the app’s usability 
 10. List of Figures
 -------------------
 
-```markdown
+```
 ## List of Figures
 
 - **Figure 1**: Screenshot of the app's home screen.
@@ -181,7 +178,6 @@ With these features i'd bring to the app, it will improve the app’s usability 
 11. Disclosure of AI Usage in My Assessment
 -------------------------------------------
 
-```markdown
 ## Disclosure of AI Usage in My Assessment
 
 ## Disclosure of AI Usage in My Assessment
