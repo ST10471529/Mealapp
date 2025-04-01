@@ -181,16 +181,16 @@ In the development of this project, I have used generative AI tools to assist in
 - **Gemini** (OpenAI)
 
 ### 3. **Purpose/Intention Behind Use:**
-- **Brainstorming**: Used ChatGPT to generate ideas for the app’s features and functionality.
-- **Meaning Making**: Used AI to clarify some concepts and gain a better understanding of how certain technologies (e.g., GitHub Actions) work.
-- **Initial Investigation**: Utilized AI to conduct research on best practices for Android app development and GitHub Actions setup.
-- **Code Assistance**: GitHub Copilot was used to assist in writing specific parts of the code, such as setting up GitHub Actions and working with Gradle.
-- **Correcting Grammar and Spelling**: ChatGPT helped review and correct the grammar and clarity of my project report.
-
+- **Guidance**: I used Gemini to guide me on checking if my buttons would work for the app’s features and functionality.
+- **Understanding code**: I asked Gemini to help me clarify some codes and gain a better understanding of how certain functions work that the code provides.
+- **Layout check**: I have asked Gemini and ChatGpt to make sure my layout of the Acticity_Main.xml was correct and had no issues with the structure of it.
+- **Code Assistance**: I asked Gemini to help me with the code in my MainActivity.kt file, from line 62 to 70 without my comments inncluded.
+  
 ### 4. **Date(s) in Which Generative AI Was Used:**
-- **Question 2.2**: AI used on **March 5, 2025** for brainstorming feature ideas.
-- **Part 5**: AI used on **March 8, 2025** to help set up GitHub Actions.
-- **Part 3**: AI used on **March 10, 2025** for reviewing the final report.
+-  AI was used on **March 15, 2025** 
+- **Question 2.2**: AI was used on **March 20, 2025** for clearity on codes ive used to make sure if they would work with what I inteded it for.
+- **Part 5**: AI was used on **March 26, 2025** .
+- **Part 3**: AI was used on **March 28, 2025** .
 
 ### 5. **Link to the AI Chat(s) or Screenshots:**
 - **Chat 1 (Brainstorming App Features)**: [Link to the AI conversation/chat](insert_link_here)  
