@@ -1,15 +1,3 @@
----
-
-### **README Structure for Android App Development Assignment**
-
----
-
-1. Basic Information
---------------------
-
-Start with a header section that includes the following basic details:
-
-
 # [Meal app]
 - **Developer**: [Leander Hughes]
 - **Student Number**: [St-10471529]
@@ -55,7 +43,7 @@ With these features of the app intergrated, it provides ease of use to the user 
 
 ## Design Considerations
 
-The design of the **[Meal ]** was based on the following key considerations:
+The design of the **[Meal app ]** was based on the following key considerations:
 
 1. **User Experience (UX)**: The whole design around the app is to brighten up the user's day with having a bright background with pink hue's to the app which provides an asthetic design and entises females to also engage with the app.
    
@@ -95,7 +83,8 @@ Why:
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](Main_page_of_my_app_png)
+![Screenshot 1](![Main page of my app](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e)
+)
 "The screanshot showcases the main screen the user will see on the app and where they would enter the time of day."
 
 ![Screenshot 2](path_to_screenshot_2.png)
