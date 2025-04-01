@@ -150,6 +150,9 @@ With these features i'd like to bring to the app, it will improve the app’s us
 1. https://za.pinterest.com/pin/320107486034589565/ ( The place where i've gotten my image for my app. )
 2. https://developer.android.com/kotlin/common-patterns ( This is for using private lateinit var as that is what im comfrtable using in my code and for better understanding. ) I got this from a family member.
 3. https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.text/contains.html ( The refrence for time.contains code in the MainActivity.kt. )
+4. https://chatgpt.com/c/67ec4471-4648-800a-ba14-eb0ee3d709d1 ( This is a refrence for one of the line of codes I have where I needed clearity on. )
+5. https://www.w3schools.com/kotlin/kotlin_comments.php ( This is a refrence of the site I used to guide me on how to comment on my code in a kotlin file. )
+6. https://www.w3schools.com/kotlin/kotlin_when.php ( This is a refrence of the site I used to guide me with using the when statement in my code in MainActivity.kt. )
 
 ```
 
