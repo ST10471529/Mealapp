@@ -65,16 +65,16 @@ The design of the Meal app was based on the following key considerations:
 
 ## GitHub and GitHub Actions
 
-This project was managed using **GitHub** for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity.
+This project was managed using GitHub for version control.This is where all the code changes are committed and pushed regularly. This allows me to keep track with the constant changes i've made to my code.
 
 ### GitHub Actions:
-I utilized **GitHub Actions** to automate the build and deployment process. This includes:
+I used GitHub Actions to automate building and deployment, which includes:
 
 - Running automated **tests** to ensure the app’s functionality.
 - Compiling the app into **APK** and **AAB** files, which are the formats required for distribution.
 - Uploading these build artifacts to GitHub for easy access.
 
-The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
+The workflow builds, tests, and delivers the APK/AAB files automatically whenever I make changes to my code.
 ```
 
 ```
@@ -199,7 +199,7 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 -  AI was used on **March 28, 2025**  Used for checking how the layout of my app was and if it was correct.
 
 ### 5. **Screenshots to the AI Chat(s):**
-- **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**: ["Response_Gemini_for_layout_structure.png"]  
+- **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**:[Link to the AI conversation/chat](insert_link_here) 
   *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
 
 - **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
