@@ -148,8 +148,10 @@ With these features i'd like to bring to the app, it will improve the app’s us
 -------------
 ## References
 
-1. [Reference 1: E.g., any books, articles, or online resources you used during development.]
-2. [Reference 2: Any relevant papers, documentation, or tutorials.]
+1. https://za.pinterest.com/pin/320107486034589565/ ( The place where i've gotten my image for my app. )
+2. https://developer.android. com/ kotlin/ common- patterns ( This is for using private lateinit var as that is what im comfrtable using in my code and for better understanding. )
+3. https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.text/contains.html ( The refrence for time.contains code in the MainActivity.kt. )
+
 ```
 
 ```
