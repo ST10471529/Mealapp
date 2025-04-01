@@ -84,10 +84,10 @@ The workflow builds, tests, and delivers the APK files automatically whenever I 
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e))
+![Screenshot 1]![Main first page](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e))
 "The screanshot showcases the main screen the user will see on the app and where they would enter the time of day."
 
-![Screenshot 2](https://github.com/user-attachments/assets/071e2d07-9d7e-444f-8381-9645c0839b17))
+![Screenshot 2]![Menu, second page](https://github.com/user-attachments/assets/071e2d07-9d7e-444f-8381-9645c0839b17))
 "The screenshot showcases the full menu list on the second page which allows the user to view the full menu to have an idea of what to expect."
 
 ![Screenshot 3](![Layout of most of the design ](https://github.com/user-attachments/assets/4c86cc2a-edc1-493b-897b-61dcf41fdb4b))
