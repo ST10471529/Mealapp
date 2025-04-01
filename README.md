@@ -178,7 +178,7 @@ In the development of this project, I have used generative AI tools to assist in
 
 ### 2. **Name of AI Tool(s) Used:**
 - **ChatGPT** (OpenAI)
-- **GitHub Copilot** (GitHub)
+- **Gemini** (OpenAI)
 
 ### 3. **Purpose/Intention Behind Use:**
 - **Brainstorming**: Used ChatGPT to generate ideas for the app’s features and functionality.
@@ -195,9 +195,6 @@ In the development of this project, I have used generative AI tools to assist in
 ### 5. **Link to the AI Chat(s) or Screenshots:**
 - **Chat 1 (Brainstorming App Features)**: [Link to the AI conversation/chat](insert_link_here)  
   *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
-
-- **Chat 2 (GitHub Actions Workflow Setup)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI assisted with configuring GitHub Actions for the project)*
 
 - **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
   *(Screenshot/Link to Chat: AI helped in reviewing and correcting the report’s grammar)*
