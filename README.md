@@ -21,7 +21,7 @@
 The Mealapp is a mobile app created as part of an assignment given in the IMAD5112 subject. This application was created using Kotlin and Android Studio.
 The purpose of this will be to provide an ease of information based of what they want to eat for the time of day by simply adding in the time e.g "Morning etc" in and receiving an output as a meal provided by the app for the user.
 
-When creating the app, the app was designed to meet the requirements based of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
+When creating the app, the app was designed to meet the requirements based of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and cmd automation using GitHub Actions to build my code on github and it built successfully.
 ```
 
 ```
@@ -70,11 +70,11 @@ This project was managed using GitHub for version control.This is where all the 
 ### GitHub Actions:
 I used GitHub Actions to automate building and deployment, which includes:
 
-- Running automated **tests** to ensure the app’s functionality.
-- Compiling the app into **APK** and **AAB** files, which are the formats required for distribution.
-- Uploading these build artifacts to GitHub for easy access.
+- Running and ensuring the tests ran smoothly to ensure the app’s functionality.
+- Compiling the app into a APK file, which are the formats required for distribution.
+- The upload of these build artifacts to GitHub for ease of access for marking.
 
-The workflow builds, tests, and delivers the APK/AAB files automatically whenever I make changes to my code.
+The workflow builds, tests, and delivers the APK files automatically whenever I make changes to my code.
 ```
 
 ```
@@ -198,12 +198,21 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 ### 4. **Date(s) in Which Generative AI Was Used:**
 -  AI was used on **March 15, 2025** For my button functionality and whether it was able to link to thhe secon page and fucntion correctly in-terms of exiting and resetting.
 -  AI was used on **March 20, 2025** Guidance on helping me with setting up my code correctly.
--  AI was used on **March 26, 2025** for clearity on codes ive used to make sure if they would work with what I inteded it for.
+-  AI was used on **March 26, 2025**  For clearity on codes ive used to make sure if they would work with what I inteded it for.
 -  AI was used on **March 28, 2025**  Used for checking how the layout of my app was and if it was correct.
 
 ### 5. **Screenshots to the AI Chat(s):**
 - **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**:[Link to the AI conversation/chat](insert_link_here) 
   *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
 
-- **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI helped in reviewing and correcting the report’s grammar)*
+- **Chat 2(Gemini) (Explanation of the code)**:[Link to the AI conversation/chat](insert_link_here) 
+  *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
+
+- **Chat 3(Gemini) (Question explanation from my code that Gemini provided)**:[Link to the AI conversation/chat](insert_link_here) 
+  *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
+
+- **Chat 4(Gemini) (Explaining and confirming that my code will work)**:[Link to the AI conversation/chat](insert_link_here) 
+  *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
+
+
+
