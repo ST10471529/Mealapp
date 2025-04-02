@@ -209,8 +209,7 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 
 - **Chat 3(Gemini) (Question explanation from my code that Gemini provided)**:[Link to the AI conversation/chat](![Gemini explanation from a question asked](https://github.com/user-attachments/assets/f5812b8b-2f90-46dc-b9ea-27b8e90c4c52) 
 
-- **Chat 4(Gemini) (Explaining and confirming that my code will work)**:[Link to the AI conversation/chat](![Gemini explaing that my code will work correctly that i've inserted](https://github.com/user-attachments/assets/47250255-b1a2-4507-b793-ef363701e798)
-) 
+- **Chat 4(Gemini) (Explaining and confirming that my code will work)**:[Link to the AI conversation/chat](![Gemini explaing that my code will work correctly that i've inserted](https://github.com/user-attachments/assets/47250255-b1a2-4507-b793-ef363701e798) 
 
 
 
