@@ -84,25 +84,32 @@ The workflow builds, tests, and delivers the APK files automatically whenever I 
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1]![Main first page](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e))
+![Main first page](https://github.com/user-attachments/assets/ad8518f2-89e2-4c18-8e87-b62e69ace50e))
+
 "The screanshot showcases the main screen the user will see on the app and where they would enter the time of day."
 
-![Screenshot 2]![Menu, second page](https://github.com/user-attachments/assets/071e2d07-9d7e-444f-8381-9645c0839b17))
+![Menu, second page](https://github.com/user-attachments/assets/071e2d07-9d7e-444f-8381-9645c0839b17))
+
 "The screenshot showcases the full menu list on the second page which allows the user to view the full menu to have an idea of what to expect."
 
-![Screenshot 3](![Layout of most of the design ](https://github.com/user-attachments/assets/4c86cc2a-edc1-493b-897b-61dcf41fdb4b))
+(![Layout of most of the design ](https://github.com/user-attachments/assets/4c86cc2a-edc1-493b-897b-61dcf41fdb4b))
+
 "The screenshot showcases the design of most of the app with all the colors and visual design cues by changing the size and adding shadding,etc."
 
-![Screenshot 4](![MainActivity codes ](https://github.com/user-attachments/assets/b4e7063d-466a-4f0f-90dc-2596ca4c9f8c))
+(![MainActivity codes ](https://github.com/user-attachments/assets/b4e7063d-466a-4f0f-90dc-2596ca4c9f8c))
+
 "The screenshot showcases all the buttons in the MainActivity.kt and the functionality the have which all works in sync to make the app work optimally."
 
-![Screenshot 5](![MainActivity2 ](https://github.com/user-attachments/assets/af817c69-5965-4765-a02f-69f0b32d3ceb))
+(![MainActivity2 ](https://github.com/user-attachments/assets/af817c69-5965-4765-a02f-69f0b32d3ceb))
+
 "The screenshot showcases the button code for the return to main screen functionality that button provides."
 
-![Screenshot 6](![MainActivity codes 2](https://github.com/user-attachments/assets/06f9b00f-5698-4bc7-8876-c9a4d984e68f))
+(![MainActivity codes 2](https://github.com/user-attachments/assets/06f9b00f-5698-4bc7-8876-c9a4d984e68f))
+
 "The screenshot showcases the code that allows the user to input the time of day and get a valid output based on the time of day the user inserted."
 
-![Screenshot 7](![App running,display feature](https://github.com/user-attachments/assets/7439eb42-676d-406a-90df-0d50b73d3020))
+(![App running,display feature](https://github.com/user-attachments/assets/7439eb42-676d-406a-90df-0d50b73d3020))
+
 "The screenshot displays what the user will see after they insert a valid time of day. A snippit of the app working."
 
 ### Video Demo:
