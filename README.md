@@ -203,7 +203,8 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 -  AI was used on **March 28, 2025**  Used for checking how the layout of my app was and if it was correct.
 
 ### 5. **Screenshots to the AI Chat(s):**
-- **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**:[Link to the AI conversation/chat](insert_link_here) 
+- **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**:[Link to the AI conversation/chat](![Response Gemini for layout structure](https://github.com/user-attachments/assets/500c0af0-d303-4125-b829-f76cada4f2e9)
+) 
   *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
 
 - **Chat 2(Gemini) (Explanation of the code)**:[Link to the AI conversation/chat](insert_link_here) 
