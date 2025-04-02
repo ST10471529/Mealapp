@@ -106,7 +106,7 @@ The workflow builds, tests, and delivers the APK files automatically whenever I 
 "The screenshot displays what the user will see after they insert a valid time of day. A snippit of the app working."
 
 ### Video Demo:
-View the videos functionality here: [https://www.color-hex.com/color-palette/1056520].
+View the videos functionality here:  https://youtu.be/SqrSF0wblZw
 ```
 
 ```
