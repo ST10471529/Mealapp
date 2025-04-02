@@ -205,7 +205,7 @@ Duringt the complition of my app, I have used AI tools to assist in various part
 ### 5. **Screenshots to the AI Chat(s):**
 - **Chat 1(Gemini) (Layout structure for my Activity_main.xml)**:[Link to the AI conversation/chat](![Response Gemini for layout structure](https://github.com/user-attachments/assets/500c0af0-d303-4125-b829-f76cada4f2e9) 
 
-- **Chat 2(Gemini) (Explanation of the code)**:[Link to the AI conversation/chat](insert_link_here) 
+- **Chat 2(Gemini) (Explanation of the code)**:[Link to the AI conversation/chat](![Explanation of my lines of code from Gemini in android studio](https://github.com/user-attachments/assets/b38690ff-9385-4d1f-9f1c-4b8f51fc5b5f) 
 
 - **Chat 3(Gemini) (Question explanation from my code that Gemini provided)**:[Link to the AI conversation/chat](![Gemini explanation from a question asked](https://github.com/user-attachments/assets/f5812b8b-2f90-46dc-b9ea-27b8e90c4c52) 
 
