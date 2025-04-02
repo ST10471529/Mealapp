@@ -11,7 +11,7 @@
 
 ## Links
 - **GitHub Repository**: https://github.com/ST10471529/Mealapp
-- **YouTube Video**: YouTube Video Link
+- **YouTube Video**: https://youtu.be/SqrSF0wblZw
 ```
 ```
 2. Project Overview
